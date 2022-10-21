@@ -1,1 +1,1 @@
-mod counter;
+pub mod counter;
